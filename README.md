@@ -1,5 +1,7 @@
 # Shakespeare_text_Generator_RNN_LSTM
 A Recurrent Neural Network that uses LSTM Architecture
+![Model Construction](https://github.com/EyadAbouKer/Shakespeare_text_Generator_RNN_LSTM/assets/126291554/24cb971f-c99d-47eb-a6c2-a2aabce41f67)
+
 
 ## Overview
 This project implements a text generator using a Recurrent Neural Network (RNN) with Long Short-Term Memory (LSTM) architecture. The model is trained on a dataset of Shakespearean text strings, consisting of 6270 strings for training and 2790 strings for testing. Each string is comprised of 100 characters.
